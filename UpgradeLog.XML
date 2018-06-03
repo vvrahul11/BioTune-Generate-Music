@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Forms Example">
+</Property><Property Name="Solution File" Value="C:\Users\Rahul Mohan\Desktop\Forms Example\Forms Example.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Rahul Mohan\Desktop\Forms Example\Forms Example.suo">
+</Property><Property Name="Date" Value="Sunday, February 06, 2011">
+</Property><Property Name="Time" Value="13:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Forms Example.sln" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Forms Example.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Forms Example.suo" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Forms Example.suo">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Forms Example.csproj" Description="Project file successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Forms Example.csproj">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Forms Example.csproj.user" Description="Project user file successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Forms Example.csproj.user">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="fclsMyNewForm.cs" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\fclsMyNewForm.cs">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Form1.cs" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="App.ico" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="fclsMyNewForm.resx" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\fclsMyNewForm.resx">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Form1.resx" Description="File successfully backed up as C:\Users\Rahul Mohan\Desktop\Forms Example\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Forms Example" Source="Forms Example.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Forms Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Forms Example" Source="Forms Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Forms Example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Forms Example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Forms Example" Source="Forms Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

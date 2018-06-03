@@ -1,0 +1,96 @@
+C:\Users\Rahul Mohan\Desktop\Forms Example\bin\Debug\Forms Example.exe
+C:\Users\Rahul Mohan\Desktop\Forms Example\bin\Debug\Forms Example.pdb
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms_Example.fclsMyNewForm.resources
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms_Example.fclsExample.resources
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms_Example.Properties.Resources.resources
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms Example.exe
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms Example.pdb
+C:\Users\Rahul Mohan\Desktop\Forms Example\obj\Debug\Forms_Example.Form2.resources
+F:\Net\Forms Example\obj\Debug\Forms Example.exe
+F:\Net\Forms Example\obj\Debug\Forms Example.pdb
+F:\Net\Forms Example\bin\Debug\Forms Example.exe
+F:\Net\Forms Example\bin\Debug\Forms Example.pdb
+F:\Net\Forms Example\obj\Debug\ResolveAssemblyReference.cache
+F:\Net\Forms Example\obj\Debug\Forms_Example.fclsMyNewForm.resources
+F:\Net\Forms Example\obj\Debug\Forms_Example.fclsExample.resources
+F:\Net\Forms Example\obj\Debug\Forms_Example.Form2.resources
+F:\Net\Forms Example\obj\Debug\Forms_Example.Properties.Resources.resources
+F:\Net\Forms Example\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Net\Forms Example\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Net\Forms Example\bin\Debug\Interop.WMPLib.dll
+F:\Net\Forms Example\bin\Debug\AxInterop.WMPLib.dll
+F:\Net\Forms Example\obj\Debug\Interop.WMPLib.dll
+F:\Net\Forms Example\obj\Debug\AxInterop.WMPLib.dll
+F:\Net\Forms Example\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+F:\Net\BioTune\obj\Debug\Interop.WMPLib.dll
+F:\Net\BioTune\obj\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+F:\Net\BioTune\obj\Debug\Forms Example.exe
+F:\Net\BioTune\obj\Debug\Forms Example.pdb
+F:\Net\BioTune\obj\Debug\ResolveAssemblyReference.cache
+F:\Net\BioTune\obj\Debug\Forms_Example.fclsMyNewForm.resources
+F:\Net\BioTune\obj\Debug\Forms_Example.fclsExample.resources
+F:\Net\BioTune\obj\Debug\Forms_Example.Form2.resources
+F:\Net\BioTune\obj\Debug\Forms_Example.Properties.Resources.resources
+F:\Net\BioTune\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Net\BioTune\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Net\BioTune\bin\Debug\Forms Example.exe
+F:\Net\BioTune\bin\Debug\Forms Example.pdb
+F:\Net\BioTune\bin\Debug\Interop.WMPLib.dll
+F:\Net\BioTune\bin\Debug\AxInterop.WMPLib.dll
+J:\BioTune\obj\Debug\Interop.WMPLib.dll
+J:\BioTune\obj\Debug\AxInterop.WMPLib.dll
+J:\BioTune\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+J:\BioTune\obj\Debug\Forms Example.exe
+J:\BioTune\obj\Debug\Forms Example.pdb
+K:\BioTune\obj\Debug\Interop.WMPLib.dll
+K:\BioTune\obj\Debug\AxInterop.WMPLib.dll
+K:\BioTune\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+K:\BioTune\obj\Debug\Forms Example.exe
+K:\BioTune\obj\Debug\Forms Example.pdb
+K:\BioTune\obj\Debug\ResolveAssemblyReference.cache
+K:\BioTune\obj\Debug\Forms_Example.fclsMyNewForm.resources
+K:\BioTune\obj\Debug\Forms_Example.fclsExample.resources
+K:\BioTune\obj\Debug\Forms_Example.Form2.resources
+K:\BioTune\obj\Debug\Forms_Example.Properties.Resources.resources
+K:\BioTune\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\BioTune\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\BioTune\bin\Debug\Forms Example.exe
+K:\BioTune\bin\Debug\Forms Example.pdb
+K:\BioTune\bin\Debug\Interop.WMPLib.dll
+K:\BioTune\bin\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune old\obj\Debug\Interop.WMPLib.dll
+F:\Net\BioTune old\obj\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune old\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+F:\Net\BioTune old\obj\Debug\Forms Example.exe
+F:\Net\BioTune old\obj\Debug\Forms Example.pdb
+F:\Net\BioTune old\bin\Debug\Forms Example.exe
+F:\Net\BioTune old\bin\Debug\Forms Example.pdb
+F:\Net\BioTune old\bin\Debug\Interop.WMPLib.dll
+F:\Net\BioTune old\bin\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune old\obj\Debug\ResolveAssemblyReference.cache
+F:\Net\BioTune old\obj\Debug\Forms_Example.fclsMyNewForm.resources
+F:\Net\BioTune old\obj\Debug\Forms_Example.fclsExample.resources
+F:\Net\BioTune old\obj\Debug\Forms_Example.Form2.resources
+F:\Net\BioTune old\obj\Debug\Forms_Example.Properties.Resources.resources
+F:\Net\BioTune old\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Net\BioTune old\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Net\BioTune neww\obj\Debug\Interop.WMPLib.dll
+F:\Net\BioTune neww\obj\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune neww\obj\Debug\Forms Example.csproj.ResolveComReference.cache
+F:\Net\BioTune neww\obj\Debug\Forms Example.exe
+F:\Net\BioTune neww\obj\Debug\Forms Example.pdb
+F:\Net\BioTune neww\bin\Debug\Forms Example.exe
+F:\Net\BioTune neww\bin\Debug\Forms Example.pdb
+F:\Net\BioTune neww\bin\Debug\Interop.WMPLib.dll
+F:\Net\BioTune neww\bin\Debug\AxInterop.WMPLib.dll
+F:\Net\BioTune neww\obj\Debug\ResolveAssemblyReference.cache
+F:\Net\BioTune neww\obj\Debug\Forms_Example.fclsMyNewForm.resources
+F:\Net\BioTune neww\obj\Debug\Forms_Example.fclsExample.resources
+F:\Net\BioTune neww\obj\Debug\Forms_Example.Form2.resources
+F:\Net\BioTune neww\obj\Debug\Forms_Example.Properties.Resources.resources
+F:\Net\BioTune neww\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Net\BioTune neww\obj\Debug\GenerateResource-ResGen.write.1.tlog
